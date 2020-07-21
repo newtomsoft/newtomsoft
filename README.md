@@ -1,6 +1,3 @@
-Thomas Vuille *Ingénieur en développement logiciel*
-
-
 **Curieux** et **autonome**, j'aime écouter et analyser les besoins de mes clients afin de leurs apporter la **meilleure satisfaction**.
 Je ne travaille jamais pour un client mais **avec un client**.
 
