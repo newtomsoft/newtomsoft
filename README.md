@@ -5,6 +5,7 @@ Je suis **force de proposition** et mes **compétences transverses** me permette
 Je suis animé par l'envie de toujours faire mieux et de livrer des solutions de **qualité** dont vous aurez réellement besoin.
 
 Je développe surtout coté back-end en langages **C# asp.net core**, SQL en approche **Agile**/Scrum.
+
 Mais aussi coté front-end en langages **javascript** / Jquery avec une appétence pour **Angular**.
 
 Je suis **Ingénieur** Informatique Industrielle **C++ diplômé en 2001**
