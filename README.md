@@ -19,7 +19,7 @@ Je me forme continuellement et plus particulièrement sur le **clean code**, la 
 - Un outil de CV gamifié en ligne avec mon ancien formateur 👨‍🎓 👨‍🏫
 
 # 👯 Des clients recherchés 
-Je suis à l'écoute de tous vos projets de développement informatique où **l'écoute et la bienveillance** font partie de votre culture d'entreprise plus que du votre slogan marketing
+Je suis à l'écoute de tous vos projets de développement informatique où **l'écoute et la bienveillance** font partie de votre culture d'entreprise plus que de votre slogan marketing.
 
 # 📫 Pour me contacter : 
 Via mon entreprise NewTomSoft : thomas@newtomsoft.fr
