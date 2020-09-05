@@ -15,6 +15,7 @@ Je me forme continuellement et plus particulièrement sur le **clean code**, la 
 
 # 🔭 Je travaille actuellement sur plusieurs projets :
 - Le portage en ligne de jeux de plateau comme par exemple https://www.chromino.fr 🕹♟
+- Le portage en ligne de jeu Dobble https://dobble.online 🕹♟
 - Un outil de CV gamifié en ligne avec mon ancien formateur 👨‍🎓 👨‍🏫
 
 # 👯 Des clients recherchés 
